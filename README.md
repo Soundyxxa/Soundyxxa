@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soundyxxa
-- 👀 I’m interested in machine learning method applied to medical imaging analysis
+- 👀 I’m interested in machine learning methods applied to medical imaging analysis
 - 🌱 I’m currently learning CNN architecture
 
 
